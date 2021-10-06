@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: Refractor Plugin
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+A simple and elegant plugin for spigot 1.17
 
 
